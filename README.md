@@ -2,7 +2,7 @@
 
 Level 13 is an text-based incremental science fiction browser adventure where the player must survive in a dark, decayed City, (re-)discover old and new technologies, and rebuild a civilization that has collapsed.
 
-The game is in development. You can play latest (semi-) stable version [here](https://nroutasuo.github.io/level13/).
+The game is in development. You can play latest (semi-) stable version [here](https://dudenoob34.github.io/level13/).  (ported by dude :D)
 
 Level 13 is a personal side project but has also received some fixes from the community along the way. If you are interested in contributing, read the [contributing guidelines](docs/CONTRIBUTING.md) first. 
 
